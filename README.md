@@ -1,6 +1,6 @@
 # Smart Blind Stick with IoT
 
-![Smart Blind Stick](images/smart_blind_stick.jpg)
+
 
 ## Overview
 
